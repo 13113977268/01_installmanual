@@ -1,0 +1,2 @@
+# 01_installmanual
+安装手册，用于安装windows系统以及配置、ubuntu系统以及配置、Qt安装以及配置的指引手册
